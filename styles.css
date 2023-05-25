@@ -13,8 +13,8 @@ section {
   align-items: center;
   width: 100%;
   height: 100vh;
-  background-image: url("C:/Users/kevin/HTML projects/responsive-animated-login-form/ResponsiveLogin/images/koi.jpg");
-  background-size: 1200px;
+  background-image: url("images/periodic table.jpg");
+  background-size: 100%;
   background-position: center;
   animation: animateBg 5s linear infinite;
   background-repeat: no-repeat;
