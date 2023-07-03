@@ -13,10 +13,10 @@ section {
   align-items: center;
   width: 100%;
   height: 100vh;
-  background-image: url("images/periodic table.jpg");
+  background-image: url("images/pexels-hernán-toro-16619441.jpg");
   background-size: 100%;
   background-position: center;
-  animation: animateBg 5s linear infinite;
+  animation: animateBg 15s linear infinite;
   background-repeat: no-repeat;
 }
 
