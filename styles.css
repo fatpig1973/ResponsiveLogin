@@ -150,3 +150,11 @@ button {
     width: 290px;
   }
 }
+
+@media (max-width: 650px) {
+  section {
+    background-image: url("images/koi.jpg");
+    background-size: cover;
+    background-position: center;
+  }
+}
